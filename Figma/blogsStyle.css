@@ -1,0 +1,57 @@
+
+@font-face {
+    font-family: 'Montreal Medium';
+    src: url(Fonts/Montreal-Medium\ Regular.ttf);
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 1440px;
+    padding-top: 20px;
+}
+
+.zsIcon {
+    margin-left: 70px;
+
+}
+.header_navigation {
+    height: 50px;
+    float: right;
+    margin-right: 420px;
+    padding-top: 17px;
+    font-family: 'Montreal Medium';
+}
+.header_navigation a {
+    text-decoration: none;
+    margin-left: 63px;
+    font-size: 16px;
+    color: #363636;
+    font-weight: bold;
+}
+.header_navigation a:hover {
+    text-decoration: underline; 
+    text-decoration-thickness: 2px;    
+    text-underline-offset: 5px;
+}
+
+.IMGWidth {
+    width: 1950px;
+}
+
+h3{
+    margin-left: 70px;
+   
+}
+
+.Text2 {
+    text-align: center;
+}
+
+.Text3{
+    inline-size: 700px;
+    overflow-wrap: break-word;
+    margin-left: 600px;
+
+}
+
